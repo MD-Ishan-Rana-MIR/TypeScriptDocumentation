@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* .ant-menu-title-content {
+  color: red;
+  font-weight: 900;
+}
+
+.ant-menu-item-active {
+  background-color: red;
+}
+
+li.ant-menu-item:hover {
+  background-color: transparent !important;
+}
+
+li.ant-menu-item.ant-menu-item-selected {
+  background-color: yellow;
+}
+
+li.ant-menu-item.ant-menu-item-active.ant-menu-item-selected{
+  background-color: red!important;
+} */
+
+li.ant-menu-item.ant-menu-item-selected{
+  background-color: yellow;
+}
+
+span.ant-menu-title-content{
+  /* background-color: w; */
+}
+
